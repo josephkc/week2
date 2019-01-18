@@ -1,0 +1,14 @@
+body{
+    background: black;
+    color: white;
+    size: 150%;
+    margin: 5%;
+}
+
+p{
+    font-family: Arial;
+}
+
+a:focus{
+    border: 1px solid;
+}
